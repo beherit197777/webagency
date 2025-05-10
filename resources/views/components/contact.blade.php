@@ -7,7 +7,7 @@
             {{-- Контактная информация --}}
             <div class="space-y-4 text-gray-700 text-base" data-aos="fade-right" data-aos-delay="100">
                 <p><strong>📍 Адрес:</strong> Москва, ул. Парадная, 42 </p>
-                <p><strong>📞 Телефон:</strong> <a href="tel:+89031556787" class="text-blue-600 hover:underline">+7 (903) 155-67-87</p>
+{{--                <p><strong>📞 Телефон:</strong> <a href="tel:+89031556787" class="text-blue-600 hover:underline">+7 (903) 155-67-87</p>--}}
                 <p><strong>📧 Email:</strong> <a href="mailto:banker99@yandex.ru" class="text-blue-600 hover:underline">banker99@yandex.ru"</a></p>
                 <p><strong>🕒 Время работы:</strong> Пн–Пт, 10:00–19:00</p>
 
